@@ -1,0 +1,292 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+body {
+  background-image: url(background.jpg);
+  font-family: "poppins", sans-serif;
+}
+
+.container img {
+  position: absolute;
+  width: 650px;
+  height: 140px;
+  left: 48px;
+  top: 38px;
+}
+
+.container h3 {
+  /* Login to view */
+
+  position: absolute;
+  width: 499px;
+  height: 77px;
+  left: 280px;
+  top: 400px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
+
+.container h1 {
+  position: absolute;
+  width: 499px;
+  height: 77px;
+  left: 219px;
+  top: 480px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 58px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
+
+.container p {
+  /* if you don't have an account */
+
+  position: absolute;
+  width: 289px;
+  height: 30px;
+  left: 270px;
+  top: 700px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.container button {
+  /* register */
+
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  left: 323px;
+  top: 750px;
+  color: #fff;
+  font-weight: bold;
+
+  background: #5a50ff;
+  border-radius: 15px;
+}
+
+.login {
+  height: 100hv;
+}
+
+.Login-form input {
+  /* Rectangle 2 */
+
+  position: absolute;
+  width: 450px;
+  height: 60px;
+  left: 1100px;
+  top: 326px;
+
+  border-radius: 15px;
+}
+
+.login-form-password input {
+  /* Rectangle 3 */
+
+  position: absolute;
+  width: 450px;
+  height: 60px;
+  left: 1100px;
+  top: 417px;
+
+  border-radius: 15px;
+}
+
+.login a {
+  /* Forgot Password? */
+
+  position: absolute;
+  width: 177px;
+  height: 30px;
+  left: 1400px;
+  top: 497px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.signup {
+  height: 90hv;
+}
+
+.signup img{
+  position: absolute;
+  width: 650px;
+  height: 140px;
+  left: 48px;
+  top: 38px;
+}
+
+.signup h3 {
+  /* Register to view */
+
+  position: absolute;
+  width: 499px;
+  height: 77px;
+  left: 240px;
+  top: 400px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
+
+.signup h1 {
+  position: absolute;
+  width: 499px;
+  height: 77px;
+  left: 219px;
+  top: 480px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 58px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
+
+.signup p {
+  position: absolute;
+  width: 289px;
+  height: 30px;
+  left: 270px;
+  top: 700px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.signup button{
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  left: 323px;
+  top: 750px;
+  color: #fff;
+  font-weight: bold;
+
+  background: #5a50ff;
+  border-radius: 15px;
+}
+
+.register-form input {
+  /* Rectangle 2 */
+
+  position: absolute;
+  width: 450px;
+  height: 60px;
+  left: 1100px;
+  top: 326px;
+
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.register-form-email input {
+  /* Rectangle 3 */
+
+  position: absolute;
+  width: 450px;
+  height: 60px;
+  left: 1100px;
+  top: 417px;
+
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.register-form-password input {
+  /* Rectangle 6 */
+
+  position: absolute;
+  width: 450px;
+  height: 60px;
+  left: 1100px;
+  top: 508px;
+
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.register-form-gender input {
+  /* Rectangle 7 */
+
+  position: absolute;
+  width: 450px;
+  height: 60px;
+  left: 1100px;
+  top: 599px;
+
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+
+.lisensi {
+  height: 100hv;
+}
+
+.lisensi h3{
+  position: absolute;
+  width: 499px;
+  height: 77px;
+  left: 850px;
+  top: 900px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
+
+.register-lisensi {
+  position: absolute;
+  width: 499px;
+  height: 77px;
+  left: 850px;
+  top: 900px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
